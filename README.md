@@ -9,6 +9,7 @@ Jeu de puissance 4 en C
 Utilisation
 ================
 make
+
 ./puissance4 row col
 
 (row col devant être remplacés par des nombres supérieures à 6 et 7 respectivements, et correspondant à la taille de la grille du puissance4, exemple :
